@@ -17,13 +17,13 @@ public class condition2{
         // }
         int button=sc.nextInt();
         switch(button){
-            case 1: System.out.println("first bol");
+            case 1: System.out.println("first");
             break;
-            case 2:System.out.println("second maloom kya");
+            case 2:System.out.println("second ");
             break;
-            case 3:System.out.println("third bolna pdta");
+            case 3:System.out.println("third ");
             break;
-            default:System.out.println("bol kya baat h");
+            default:System.out.println("value more than three");
             break;
         }
     }

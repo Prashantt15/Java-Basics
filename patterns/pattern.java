@@ -6,8 +6,8 @@ class pattern{
         int a=sc.nextInt();
         System.out.println("enter columns");
         int b=sc.nextInt();
-        for(int i=0; i<=a; i++){
-            for(int j=0; j<=a; j++){
+        for(int i=0; i<a; i++){
+            for(int j=0; j<b; j++){
                 System.out.print("*");
             }
         System.out.println();
